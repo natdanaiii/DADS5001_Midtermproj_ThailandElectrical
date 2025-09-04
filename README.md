@@ -2,3 +2,4 @@
 TBC
 Edit_nguk
 Edit_Game
+Edit_Bow

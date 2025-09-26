@@ -14,21 +14,33 @@
 การวิเคราะห์ dataset นี้จึงมุ่งตรวจสอบความสมดุลระหว่างการผลิตและการใช้ไฟฟ้า แนวโน้มส่วนเกิน (Oversupply) และปัจจัยที่ส่งผลต่อการใช้ไฟฟ้าในอนาคต 
 เช่น รถยนต์ไฟฟ้า (EV), GDP, ประชากร, ฤดูกาล เพื่อให้ได้ข้อเท็จจริงที่สะท้อนความสมดุลของระบบพลังงานไทย
 
-## Question
-รูป 1: Generation vs Consumption + Trendline
+## Question 
+### Q1.อุณหภูมิ, GDP, จำนวนประชากร, พฤติกรรมการใช้รถไฟฟ้า เป็นปัจจัยที่ส่งผลต่อการใช้งานไฟฟ้าหรือไม่
 
-รูป 3: Heatmap Load Factor (Year×Month)
-รูป 4: Quarterly YoY – GEN/CON vs GDP
+![Alt text](images/1.png)
 
-รูป 2: 100% Stacked Area (Consumption Share by Sector)
+![Alt text](images/3.png)
 
-รูป 6: Consumption per Capita
+![Alt text](images/4.png)
 
-รูป 7: EV vs Residential
 
-รูป 5: Correlation Heatmap (GEN/CON/GDP) 
-รูป 8: Load Factor Trend (2010+)
-รูป 9: Annual Generation – Consumption
-รูป 10: Private vs Government Share
+### Q2.แนวโน้มการผลิตไฟฟ้ามีความสอดคล้องต่อความต้องการหรือไม่
+
+![Alt text](images/2.png)
+
+![Alt text](images/6.png)
+
+![Alt text](images/7.png)
+
+![Alt text](images/5.png)
+
+### Q3.การผลิตไฟฟ้าในประเทศไทย มีสัดส่วนการผลิตจากภาครัฐและภาคเอกชน เป็นอัตราส่วนเป็นอย่างไร
+
+![Alt text](images/8.png)
+
+![Alt text](images/9.png)
+
+![Alt text](images/10.png)
+
 ## Conclusion
 

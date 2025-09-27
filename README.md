@@ -39,9 +39,11 @@
 
 ![Alt text](images/6.png)
 
-![Alt text](images/7.png)
 
-![Alt text](images/5.png)
+<p align="center">
+  <img src="images/7.png" width="55%"/>
+  <img src="images/5.png" width="35%"/>
+</p>
 
 ไทยผลิตไฟมากกว่าที่ใช้มาตลอด → ระบบมั่นคง แต่ก็มี “ไฟสำรองเกิน”
 

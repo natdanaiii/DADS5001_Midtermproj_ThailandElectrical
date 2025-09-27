@@ -55,7 +55,7 @@
 ![Alt text](images/8.png)
 
 ![Alt text](images/9.png)
-
+aofgse
 ![Alt text](images/10.png)
 ช่วงหลัง ภาคเอกชนผลิตไฟมากกว่าภาครัฐ และกลายเป็นผู้เล่นหลัก
 
